@@ -22,7 +22,7 @@ Pastikan Anda menggunakan Python 3.9+.
 ```bash
 git clone https://github.com/0xPutri/paxos-consensus-sim.git
 cd paxos-consensus-sim
-python main.py
+python run.py
 ```
 
 Output akan menampilkan log interaksi antara proposer dan acceptor, serta apakah konsensus berhasil atau gagal.
