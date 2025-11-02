@@ -20,7 +20,7 @@ Paxos adalah algoritma konsensus klasik yang menjamin **safety** (hanya satu nil
 Pastikan Anda menggunakan Python 3.9+.
 
 ```bash
-git clone https://github.com/Rozhak/paxos-consensus-sim.git
+git clone https://github.com/0xPutri/paxos-consensus-sim.git
 cd paxos-consensus-sim
 python main.py
 ```
